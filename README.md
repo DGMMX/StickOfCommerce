@@ -5,7 +5,7 @@ Um projeto dado pela FIAP uma refentene a mateira de Java para ser feito uma api
 Diego Bassalo Canals Silva 
 
 ## Sites Inspirados: 
-[<img src="./gif/projeto_mercado.gif"">]()
+[<img src="./gif/projeto_mercado.gif">]
 
 
 
